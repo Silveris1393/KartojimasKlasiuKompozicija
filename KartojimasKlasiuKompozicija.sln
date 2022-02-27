@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartojimasKlasiuKompozicija", "KartojimasKlasiuKompozicija\KartojimasKlasiuKompozicija.csproj", "{927A4D8D-CDC8-4CBE-987E-EC144C5D44A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartojimasKlasiuKompozicija2", "KartojimasKlasiuKompozicija2\KartojimasKlasiuKompozicija2.csproj", "{426F3574-6FC5-48CC-AAA7-0AEE7A1029EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927A4D8D-CDC8-4CBE-987E-EC144C5D44A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927A4D8D-CDC8-4CBE-987E-EC144C5D44A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927A4D8D-CDC8-4CBE-987E-EC144C5D44A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927A4D8D-CDC8-4CBE-987E-EC144C5D44A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426F3574-6FC5-48CC-AAA7-0AEE7A1029EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426F3574-6FC5-48CC-AAA7-0AEE7A1029EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426F3574-6FC5-48CC-AAA7-0AEE7A1029EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426F3574-6FC5-48CC-AAA7-0AEE7A1029EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB56E7D-4780-45A7-A3E3-E78A084ABFFF}
+	EndGlobalSection
+EndGlobal
